@@ -1,1 +1,1 @@
-# Math/Stat Lunches for Spring 2024
+# Math/Stat/DS Lunches for Spring 2024
