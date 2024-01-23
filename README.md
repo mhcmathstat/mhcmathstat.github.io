@@ -21,7 +21,7 @@ Information about the Mathematics and Statistics department at Mount Holyoke Col
 - Isabelle Beaudry
 - Kenneth Mulder
 - Laurie Tupper
-- Lidia Mrad
+- [Lidia Mrad](https://lidiamrad.github.io/)
 - Margaret Robinson
 - Marie Ozanne
 - Sean Hart
